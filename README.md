@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2432,3 +2433,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# Burger-Builder
+A burger builder application built with React.js based on the Udemy course: React 16: The Complete Guide(incl. React Router 4 &amp; Redux)
+>>>>>>> f8e2cf6c615333fc507f1a2651a2fe98a928feb6
